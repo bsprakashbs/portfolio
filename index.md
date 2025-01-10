@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **Data Engineer | Data Scientist | AI Engineer**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
