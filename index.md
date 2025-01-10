@@ -4,12 +4,13 @@ layout: default
 
 # Data Engineer | Data Scientist | AI Engineer
 
-[Github Repo link](./https://github.com/bsprakashbs).
+[Github Repo link](./https://github.com/bsprakashbs/).
 
+## Professional Summary:
+**Data Engineer**:  Data Engineer with [16 years] of experience in designing and implementing scalable data pipelines, optimizing ETL processes, and building robust data infrastructures. Adept at ensuring data quality, security, and compliance to meet business and regulatory requirements. Passionate about transforming complex datasets into actionable insights to drive strategic decision-making.
 
-There should be whitespace between paragraphs.
+**Enthusiastic Machine Learning Engineer** : Passionate and motivated Machine Learning Engineer eager to leverage AI and data-driven solutions to solve real-world problems. Adept at working with data pipelines, feature engineering, and model optimization to deliver high-performance solutions. Excited to stay at the forefront of emerging technologies, constantly learning and experimenting with advanced techniques like deep learning, natural language processing, and reinforcement learning. Dedicated to contributing innovative ideas and collaborating with teams to bring impactful ML applications to life.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
