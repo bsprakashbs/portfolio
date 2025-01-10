@@ -3,10 +3,10 @@ layout: default
 ---
 
 # Data Engineer | Data Scientist | AI Engineer
-* * *
-[->click here for Github Repositires](https://github.com/bsprakashbs)
 
-[->click here for Linkedln](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/)
+[-> click here for Github Repositires](https://github.com/bsprakashbs)
+
+[-> click here for Linkedln](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/)
 
 ### Professional Summary:
 **Data Engineer**:  Data Engineer with [16 years] of experience in designing and implementing scalable data pipelines, optimizing ETL processes, and building robust data infrastructures. Adept at ensuring data quality, security, and compliance to meet business and regulatory requirements. Passionate about transforming complex datasets into actionable insights to drive strategic decision-making.
@@ -49,11 +49,14 @@ layout: default
 * * *
 ### Education
 
-> Bachelor of Science in Computer Science
-> Anna university| Chennai | 2005
-> Relevant Coursework: Data Algorithms, Data Structures, Probability & Statistics, Database Systems, Software Engineering, Software Testing.
+Bachelor of Science in Computer Science
+Anna university| Chennai | 2005
+Relevant Coursework: Data Algorithms, Data Structures, Probability & Statistics, Database Systems, Software Engineering, Software Testing.
 * * *
-
+###  📫 Reach Me At
+```
+Phone: +353 894422443 | Email: bsprakashbs@gmail.com
+```
 ### Header 3
 
 ```js
