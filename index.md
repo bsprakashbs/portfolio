@@ -4,6 +4,8 @@ layout: default
 
 # Data Engineer | Data Scientist | AI Engineer
 * * *
+[Github Repo link](https://github.com/bsprakashbs)
+
 ![Github Repo link]([https://github.com/bsprakashbs])
 
 [Github Repo link](./https://github.com/bsprakashbs/).
@@ -14,7 +16,7 @@ layout: default
 **Enthusiastic Machine Learning Engineer** : Passionate and motivated Machine Learning Engineer eager to leverage AI and data-driven solutions to solve real-world problems. Adept at working with data pipelines, feature engineering, and model optimization to deliver high-performance solutions. Excited to stay at the forefront of emerging technologies, constantly learning and experimenting with advanced techniques like deep learning, natural language processing, and reinforcement learning. Dedicated to contributing innovative ideas and collaborating with teams to bring impactful ML applications to life.
 * * *
 ### Techincal Skills:
-```
+
 *   Programming Languages: UNIX Shell scripting, SQL, PL/SQL, Scala, Python
 *   AI/ML Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
 *   Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
@@ -29,8 +31,7 @@ layout: default
 *   Cloud Computing – AWS S3, AWS EMR, AWS EC2
 *   Databases: Oracle, EXADATA, HIVE-QL 
 *   ETL Tools - Informatica Power Center, Informatica Developer tool (BDM) 
-```
-* * *
+ * * *
 ### Professional Experience:
 - #### AI Engineer | Data Scientist
   
