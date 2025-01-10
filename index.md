@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Data Engineer | Data Scientist | AI Engineer**
+**Data Engineer  Data Scientist  AI Engineer**
 
 [Github Project Link](./https://github.com/bsprakashbs).
 
