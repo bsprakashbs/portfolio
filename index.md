@@ -11,16 +11,46 @@ layout: default
 
 **Enthusiastic Machine Learning Engineer** : Passionate and motivated Machine Learning Engineer eager to leverage AI and data-driven solutions to solve real-world problems. Adept at working with data pipelines, feature engineering, and model optimization to deliver high-performance solutions. Excited to stay at the forefront of emerging technologies, constantly learning and experimenting with advanced techniques like deep learning, natural language processing, and reinforcement learning. Dedicated to contributing innovative ideas and collaborating with teams to bring impactful ML applications to life.
 
+## Techincal Skills:
+*   Programming Languages: UNIX Shell scripting, SQL, PL/SQL, Scala, Python
+*   AI/ML Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
+*   Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+*   Deep Learning: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers
+*   Natural Language Processing (NLP): NLTK, SpaCy, BERT, GPT
+*   Data Visualization: Power BI, Tableau, D3.js
+*   Tools: Jupyter, Git, Docker, Kubernetes, AWS, Google Cloud
+*   Algorithms: Supervised/Unsupervised Learning, Reinforcement Learning, Optimization
+*   Software Development: Agile, CI/CD, Version Control (Git)
+*   Scheduling tool – Autosys, Crontab, CTRL-M
+*   OLAP Tool - Business Objects
+*   Cloud Computing – AWS S3, AWS EMR, AWS EC2
+*   Databases: Oracle, EXADATA, HIVE-QL 
+*   ETL Tools - Informatica Power Center, Informatica Developer tool (BDM) 
 
-# Header 1
+## Professional Experience:
+# AI Engineer | Data Scientist
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*   Built predictive models for predicting House prices
+*   Developed data pipelines using Python.
+*   Implementing Data Cleaning, outlier reduction, one hot coding, Train test split,choose the right ML models
+*   Used Fast API for the web page
 
-## Header 2
+# Data Engineer
+*   Responsible for 3 Complex Application which includes Development, testing and production Deployment.
+*   Involved with upstream and downstream application to during each change request to make sure data flow does not impact with other applications.
+*   Coordinate with Business Users and Business Analyst to understand the requirement.
+*   Involved in requirement gathering, impact analysis, risk mitigation, effort estimations.
+*   Developing a code in Informatica ,Oracle , shell script, CTRL-M   
+*   Worked on Data Frame set using Scala Spark, avro files, cloud era manager, Master-slave architecture
+*   Worked on Oracle Objects (Stored Procedure, Functions, Packages, Views, Tuning SQL queries)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Professional Experience:
+## Education
+
+> Bachelor of Science in Computer Science
+> Anna university| Chennai | 2005
+> Relevant Coursework: Data Algorithms, Data Structures, Probability & Statistics, Database Systems, Software Engineering, Software Testing.
+
 
 ### Header 3
 
