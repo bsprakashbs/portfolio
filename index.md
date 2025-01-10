@@ -4,6 +4,8 @@ layout: default
 
 # Data Engineer | Data Scientist | AI Engineer
 
+![Github Repo link]([https://github.com/bsprakashbs])
+
 [Github Repo link](./https://github.com/bsprakashbs/).
 
 ### Professional Summary:
@@ -28,21 +30,21 @@ layout: default
 *   ETL Tools - Informatica Power Center, Informatica Developer tool (BDM) 
 
 ### Professional Experience:
-#### AI Engineer | Data Scientist
+- #### AI Engineer | Data Scientist
+  
+  - Built predictive models for predicting House prices
+  - Developed data pipelines using Python.
+  - Implementing Data Cleaning, outlier reduction, one hot coding, Train test split,choose the right ML models
+  - Used Fast API for the web page
 
-*   Built predictive models for predicting House prices
-*   Developed data pipelines using Python.
-*   Implementing Data Cleaning, outlier reduction, one hot coding, Train test split,choose the right ML models
-*   Used Fast API for the web page
-
-#### Data Engineer
-*   Responsible for 3 Complex Application which includes Development, testing and production Deployment.
-*   Involved with upstream and downstream application during each change request to make sure data flow does not impact with other applications.
-*   Coordinate with Business Users and Business Analyst to understand the requirement.
-*   Involved in requirement gathering, impact analysis, risk mitigation, effort estimations.
-*   Developing a code in Informatica ,Oracle , shell script, CTRL-M   
-*   Worked on Data Frame set using Scala Spark, avro files, cloud era manager, Master-slave architecture
-*   Worked on Oracle Objects (Stored Procedure, Functions, Packages, Views, Tuning SQL queries)
+- #### Data Engineer
+  - Responsible for 3 Complex Application which includes Development, testing and production Deployment.
+  - Involved with upstream and downstream application during each change request to make sure data flow does not impact with other applications.
+  - Coordinate with Business Users and Business Analyst to understand the requirement.
+  - Involved in requirement gathering, impact analysis, risk mitigation, effort estimations.
+  - Developing a code in Informatica ,Oracle , shell script, CTRL-M   
+  - Worked on Data Frame set using Scala Spark, avro files, cloud era manager, Master-slave architecture
+  - Worked on Oracle Objects (Stored Procedure, Functions, Packages, Views, Tuning SQL queries)
 
 ### Education
 
