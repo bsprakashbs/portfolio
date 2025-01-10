@@ -3,10 +3,11 @@ layout: default
 ---
 
 #### Data Engineer | Data Scientist | AI Engineer
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-Github Repo link : https://github.com/bsprakashbs 
+![Github Repo link](https://github.com/bsprakashbs)
 
-Linkedln link    : https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/
+![Linkedln link ]( https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/)
 
 There should be whitespace between paragraphs.
 
