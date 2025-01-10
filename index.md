@@ -4,7 +4,7 @@ layout: default
 
 **Data Engineer | Data Scientist | AI Engineer**
 
-(./https://github.com/bsprakashbs).
+[Github Project Link](./https://github.com/bsprakashbs).
 
 There should be whitespace between paragraphs.
 
