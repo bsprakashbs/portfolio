@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **Data Engineer | Data Scientist | AI Engineer**, _italic_, or ~~strikethrough~~.
+**Data Engineer | Data Scientist | AI Engineer**
 
-[Link to another page](./another-page.html).
+https://github.com/bsprakashbs
 
 There should be whitespace between paragraphs.
 
