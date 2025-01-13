@@ -56,11 +56,7 @@ layout: default
   
 * * *
 ### Education
-
-    Bachelor of Science in Computer Science
-     - Anna university | Chennai | 2005
-     - Relevant Coursework: Data Algorithms, Data Structures, Probability & Statistics, Database Systems, Software Engineering, Software Testing.
-    
+Bachelor of Science in Computer Science - Anna university | Chennai | 2005        
 * * *
 
 ###  📫 Reach Me at
