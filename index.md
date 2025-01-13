@@ -4,7 +4,7 @@ layout: default
 
 # Data Engineer | Data Scientist | AI Engineer
 
-[Github Repositires link](https://github.com/bsprakashbs)
+[Github Repositories link](https://github.com/bsprakashbs)
 
 [Linkedln link](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/)
 
