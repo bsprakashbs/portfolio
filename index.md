@@ -28,8 +28,10 @@ layout: default
 *   OLAP Tool - Business Objects
 *   Cloud Computing – AWS S3, AWS EMR, AWS EC2
 *   Databases: Oracle, EXADATA, HIVE-QL 
-*   ETL Tools - Informatica Power Center, Informatica Developer tool (BDM) 
+*   ETL Tools - Informatica Power Center, Informatica Developer tool (BDM)
+  
  * * *
+ 
 ### Professional Experience:
 - #### AI Engineer | Data Scientist
   
@@ -50,14 +52,17 @@ layout: default
   - Developing a code in Informatica ,Oracle , shell script, CTRL-M   
   - Worked on Data Frame set using Scala Spark, avro files, cloud era manager, Master-slave architecture
   - Worked on Oracle Objects (Stored Procedure, Functions, Packages, Views, Tuning SQL queries)
+  
 * * *
 ### Education
 
 Bachelor of Science in Computer Science
   - Anna university| Chennai | 2005
   - Relevant Coursework: Data Algorithms, Data Structures, Probability & Statistics, Database Systems, Software Engineering, Software Testing.
+    
 * * *
-###  📫 Reach Me At
+
+###  📫 Reach Me at
 ```
 Phone: +353 894422443 | Email: bsprakashbs@gmail.com
 ```
