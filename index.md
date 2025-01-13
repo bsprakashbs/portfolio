@@ -4,9 +4,8 @@ layout: default
 
 # Data Engineer | Data Scientist | AI Engineer
 
-[click here for Github Repositires](https://github.com/bsprakashbs)
-
-[click here for Linkedln](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/)
+[Github Repositires link](https://github.com/bsprakashbs)
+[Linkedln link](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/)
 
 ### Professional Summary:
 **Data Engineer**:  Data Engineer with [16 years] of experience in designing and implementing scalable data pipelines, optimizing ETL processes, and building robust data infrastructures. Adept at ensuring data quality, security, and compliance to meet business and regulatory requirements. Passionate about transforming complex datasets into actionable insights to drive strategic decision-making.
