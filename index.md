@@ -33,7 +33,7 @@ layout: default
  * * *
  
 ### Professional Experience:
-- #### AI Engineer | Data Scientist
+- #### AI Engineer | Data Scientist | [Project link](https://github.com/bsprakashbs/DataScience_Projects)
   
   - Research state-of-the-art AI techniques, including machine learning (ML), deep learning, and natural language processing (NLP).
   - Collect, clean, preprocess, and analyze large datasets
