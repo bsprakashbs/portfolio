@@ -4,9 +4,9 @@ layout: default
 
 # Data Engineer | Data Scientist | AI Engineer
 
-[-> click here for Github Repositires](https://github.com/bsprakashbs)
+[click here for Github Repositires](https://github.com/bsprakashbs)
 
-[-> click here for Linkedln](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/)
+[click here for Linkedln](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/)
 
 ### Professional Summary:
 **Data Engineer**:  Data Engineer with [16 years] of experience in designing and implementing scalable data pipelines, optimizing ETL processes, and building robust data infrastructures. Adept at ensuring data quality, security, and compliance to meet business and regulatory requirements. Passionate about transforming complex datasets into actionable insights to drive strategic decision-making.
@@ -33,10 +33,14 @@ layout: default
 ### Professional Experience:
 - #### AI Engineer | Data Scientist
   
-  - Built predictive models for predicting House prices
-  - Developed data pipelines using Python.
-  - Implementing Data Cleaning, outlier reduction, one hot coding, Train test split,choose the right ML models
+  - Research state-of-the-art AI techniques, including machine learning (ML), deep learning, and natural language processing (NLP).
+  - Collect, clean, preprocess, and analyze large datasets
+  - Design and implement machine learning models, such as  linear regression, Hyper tuning,cross val,random forest etc..
+  - Fine-tune and optimize model performance using techniques like hyperparameter tuning and feature engineering.
+  - Implementing Data Cleaning, outlier reduction, one hot coding, Train test split, choose the right ML models
+  - Built predictive models for House prices Dataset.
   - Used Fast API for the web page
+
 
 - #### Data Engineer
   - Responsible for 3 Complex Application which includes Development, testing and production Deployment.
@@ -50,111 +54,11 @@ layout: default
 ### Education
 
 Bachelor of Science in Computer Science
-Anna university| Chennai | 2005
-Relevant Coursework: Data Algorithms, Data Structures, Probability & Statistics, Database Systems, Software Engineering, Software Testing.
+  - Anna university| Chennai | 2005
+  - Relevant Coursework: Data Algorithms, Data Structures, Probability & Statistics, Database Systems, Software Engineering, Software Testing.
 * * *
 ###  📫 Reach Me At
 ```
 Phone: +353 894422443 | Email: bsprakashbs@gmail.com
 ```
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
