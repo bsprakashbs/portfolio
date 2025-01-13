@@ -52,6 +52,7 @@ layout: default
   - Developing a code in Informatica ,Oracle , shell script, CTRL-M   
   - Worked on Data Frame set using Scala Spark, avro files, cloud era manager, Master-slave architecture
   - Worked on Oracle Objects (Stored Procedure, Functions, Packages, Views, Tuning SQL queries)
+  - Act as Techincal lead for offshore team (Accenture)
   
 * * *
 ### Education
