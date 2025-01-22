@@ -33,19 +33,28 @@ layout: default
  * * *
  
 ### Professional Experience:
-- #### AI Engineer | Data Scientist | [Project link](https://github.com/bsprakashbs/DataScience_Projects)
+- #### AI Engineer | Data Scientist 
+  - ####  Project 1 :  Predict Irealnd House price | [Project link](https://github.com/bsprakashbs/DataScience_Projects)
   
-  - Research state-of-the-art AI techniques, including machine learning (ML), deep learning, and natural language processing (NLP).
-  - Collect, clean, preprocess, and analyze large datasets
-  - Design and implement machine learning models, such as  linear regression, Hyper tuning,cross val,random forest etc..
-  - Fine-tune and optimize model performance using techniques like hyperparameter tuning and feature engineering.
-  - Implementing Data Cleaning, outlier reduction, one hot coding, Train test split, choose the right ML models
-  - Built predictive models for House prices Dataset.
-  - Used Fast API for the web page
-
-
+    - Research state-of-the-art AI techniques, including machine learning (ML), deep learning, and natural language processing (NLP).
+    - Collect, clean, preprocess, and analyze large datasets
+    - Design and implement machine learning models, such as  linear regression, Hyper tuning,cross val,random forest etc..
+    - Fine-tune and optimize model performance using techniques like hyperparameter tuning and feature engineering.
+    - Implementing Data Cleaning, outlier reduction, one hot coding, Train test split, choose the right ML models
+    - Built predictive models for House prices Dataset.
+    - Used Fast API for the web page
+ 
+  - ####  Project 2 : Deep Lerning- Image classification -Tensor Flow -Keras | [Project link](https://github.com/bsprakashbs/Deep_Learning_Plant_village)
+  
+    - This project is in progress..
+    - Collect, clean, preprocess, and analyze large datasets(Plant Village)
+    - Used Tensorflow to load images
+    - Keras - performance tuning- to use cache value
+    - Kearas Rescaling and Resizng for model requirements-
+    - Kearas Data Augmentation to train the image in a different perspective
+    
 - #### Data Engineer
-  - Responsible for 3 Complex Application which includes Development, testing and production Deployment.
+  - Responsible for Complex Application which includes Development, testing and production Deployment.
   - Involved with upstream and downstream application during each change request to make sure data flow does not impact with other applications.
   - Coordinate with Business Users and Business Analyst to understand the requirement.
   - Involved in requirement gathering, impact analysis, risk mitigation, effort estimations.
