@@ -44,14 +44,15 @@ layout: default
     - Built predictive models for House prices Dataset.
     - Used Fast API for the web page
  
-  - ####  Project 2 : Deep Lerning- Image classification -Tensor Flow -Keras | [Project link](https://github.com/bsprakashbs/Deep_Learning_Plant_village)
+  - ####  Project 2 : Deep Learning- Image classification -Tensor Flow -Keras | [Project link](https://github.com/bsprakashbs/Deep_Learning_Plant_village)
   
     - This project is in progress..
     - Collect, clean, preprocess, and analyze large datasets(Plant Village)
-    - Used Tensorflow to load images
+    - Used Tensorflow data set  to load images
     - Keras - performance tuning- to use cache value
     - Kearas Rescaling and Resizng for model requirements-
     - Kearas Data Augmentation to train the image in a different perspective
+    - Model fit and model accuracy
     
 - #### Data Engineer
   - Responsible for Complex Application which includes Development, testing and production Deployment.
