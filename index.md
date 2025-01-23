@@ -15,20 +15,20 @@ layout: default
 * * *
 ### Techincal Skills:
 
-*   Programming Languages: UNIX Shell scripting, SQL, PL/SQL, Scala, Python
-*   AI/ML Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
-*   Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
-*   Deep Learning: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers
-*   Natural Language Processing (NLP): NLTK, SpaCy, BERT, GPT
-*   Data Visualization: Power BI, Tableau, D3.js
-*   Tools: Jupyter, Git, Docker, Kubernetes, AWS, Google Cloud
-*   Algorithms: Supervised/Unsupervised Learning, Reinforcement Learning, Optimization
-*   Software Development: Agile, CI/CD, Version Control (Git)
-*   Scheduling tool – Autosys, Crontab, CTRL-M
-*   OLAP Tool - Business Objects
-*   Cloud Computing – AWS S3, AWS EMR, AWS EC2
-*   Databases: Oracle, EXADATA, HIVE-QL 
-*   ETL Tools - Informatica Power Center, Informatica Developer tool (BDM)
+*   **Programming Languages** : UNIX Shell scripting, SQL, PL/SQL, Scala, Python
+*   **AI/ML Frameworks** : TensorFlow, PyTorch, Keras, Scikit-learn
+*   **Data Analysis** : Pandas, NumPy, Matplotlib, Seaborn
+*   **Deep Learning** : Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers
+*   **Natural Language Processing (NLP)** : NLTK, SpaCy, BERT, GPT
+*   **Data Visualization** : Power BI, Tableau, D3.js
+*   **Tools** : Jupyter, Git, Docker, Kubernetes, AWS, Google Cloud
+*   **Algorithms** : Supervised/Unsupervised Learning, Reinforcement Learning, Optimization
+*   **Software Development** : Agile, CI/CD, Version Control (Git)
+*   **Scheduling tool** : Autosys, Crontab, CTRL-M
+*   **OLAP Tool** : Business Objects
+*   **Cloud Computing** : AWS S3, AWS EMR, AWS EC2
+*   **Databases** : Oracle, EXADATA, HIVE-QL 
+*   **ETL Tools** : Informatica Power Center, Informatica Developer tool (BDM)
   
  * * *
  
