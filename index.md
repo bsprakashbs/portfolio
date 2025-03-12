@@ -17,7 +17,7 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
 * * *
 ### Techincal Skills:
 
-*   **Programming Languages** : UNIX Shell scripting, SQL, PL/SQL, Scala, Python
+*   **Programming Languages** : UNIX Shell scripting,Scala, Python
 *   **AI/ML Frameworks** : TensorFlow, PyTorch, Keras, Scikit-learn
 *   **Data Analysis** : Pandas, NumPy, Matplotlib, Seaborn
 *   **Deep Learning** : Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers
@@ -29,7 +29,7 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
 *   **Scheduling tool** : Autosys, Crontab, CTRL-M
 *   **OLAP Tool** : Business Objects
 *   **Cloud Computing** : AWS S3, AWS EMR, AWS EC2
-*   **Databases** : Oracle(SQL/PLSQL), EXADATA, HIVE-QL 
+*   **Databases** : Oracle(SQL/PLSQL-stored procedures,functions,views), EXADATA, HIVE-QL 
 *   **ETL Tools** : Informatica Power Center, Informatica Developer tool (BDM)
   
  * * *
@@ -61,8 +61,10 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
   - Involved with upstream and downstream application during each change request to make sure data flow does not impact with other applications.
   - Coordinate with Business Users and Business Analyst to understand the requirement.
   - Involved in requirement gathering, impact analysis, risk mitigation, effort estimations.
-  - Developing a code in Informatica ,Oracle , shell script, CTRL-M   
-  - Worked on Data Frame set using Scala Spark, avro files, cloud era manager, Master-slave architecture
+  - Developing a code in Informatica (mappings,mapplets,workflows)
+  - Developing a code in Oracle (stored procedures,complex sqls,fucntions,packages,views)
+  - Written shell scripts to handling the files.
+  - Developing a code in Scala using Data Frame,dataset with Scala Spark, handling avro files, cloud era manager, Master-slave architecture
   - Worked on Oracle Objects (Stored Procedure, Functions, Packages, Views, Tuning SQL queries)
   - Techincal lead for offshore team (Accenture)
   
