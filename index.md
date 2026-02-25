@@ -22,19 +22,33 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
 *   **Data Analysis** : Pandas, NumPy, Matplotlib, Seaborn
 *   **Deep Learning** : Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers
 *   **Natural Language Processing (NLP)** : NLTK, SpaCy, BERT, GPT
-*   **Data Visualization** : Power BI, Tableau, D3.js
-*   **Tools** : Jupyter, Git, Docker, Kubernetes, AWS, Google Cloud
-*   **Algorithms** : Supervised/Unsupervised Learning, Reinforcement Learning, Optimization
+*   **Data Visualizatio/OLAP** : Databricks
+*   **Tools** : Jupyter, Git, Docker, Kubernetes, AWS, Google Cloud*   
 *   **Software Development** : Agile, CI/CD, Version Control (Git)
 *   **Scheduling tool** : Autosys, Crontab, CTRL-M
 *   **OLAP Tool** : Business Objects
 *   **Cloud Computing** : AWS S3, AWS EMR, AWS EC2
 *   **Databases** : Oracle(SQL/PLSQL-stored procedures,functions,views), EXADATA, HIVE-QL 
-*   **ETL Tools** : Informatica Power Center, Informatica Developer tool (BDM)
+*   **ETL Tools** : Informatica Power Center, Informatica Developer tool (BDM) ,DBT(learning in progress)   
   
  * * *
  
 ### Professional Experience:
+
+- #### Data Engineer
+  - Develop and maintain ETL pipelines using Informatica(Mapping,Workflow,mapplets).
+  - Develop and maintain ETL pipelines using Informatica(Mapping,Workflow,mapplets)
+  - Created packages,stored procedures,functions,triggers,performance optimization,partitions,dynamic sql,analytical fucntions etc  using Oracle(SQL/PLSQL) for a OLTP system and Datawarehouse.
+  - Written  Unix Shell Scripting to handle files for comparing the data set .
+  - Work with Scala Apache Spark(data frames,datasets), Avro files, Hive,and cloud environments  like cloudera to manage large-scale data processing
+  - Created reports on Databricks using Data visualization with support of different graphs
+  - Manage complex applications, including development, testing, and production deployment.
+  - Involved with upstream and downstream application to during each change request to make sure data flow does not impact with other applications.
+  - Coordinate with business users and analysts to gather requirements and perform risk analysis.
+  - Working with Continuous Integration pipelines and automated deployment tools (e.g. Jenkins,Gradle)
+  - Engage with business stakeholders and frame requirements.
+
+    
 - #### AI Engineer | Data Scientist 
   - ####  Project 1 :  Predict Irealnd House price | [Project link](https://github.com/bsprakashbs/DataScience_Projects)
   
@@ -56,17 +70,7 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
     - Kearas Data Augmentation to train the image in a different perspective
     - Model fit and model accuracy
     
-- #### Data Engineer
-  - Responsible for Complex Application which includes Development, testing and production Deployment.
-  - Involved with upstream and downstream application during each change request to make sure data flow does not impact with other applications.
-  - Coordinate with Business Users and Business Analyst to understand the requirement.
-  - Involved in requirement gathering, impact analysis, risk mitigation, effort estimations.
-  - Developing a code in Informatica (mappings,mapplets,workflows)
-  - Developing a code in Oracle (stored procedures,complex sqls,fucntions,packages,views)
-  - Written shell scripts to handling the files.
-  - Developing a code in Scala using Data Frame,dataset with Scala Spark, handling avro files, cloud era manager, Master-slave architecture
-  - Worked on Oracle Objects (Stored Procedure, Functions, Packages, Views, Tuning SQL queries)
-  - Techincal lead for offshore team (Accenture)
+
   
 * * *
 ### Education
