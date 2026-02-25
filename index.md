@@ -49,7 +49,7 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
   - Engage with business stakeholders and frame requirements.
 
     
-- #### AI Engineer | Data Scientist 
+- #### AI Engineer | Data Scientist | Self Learning
   - ####  Project 1 :  Predict Irealnd House price | [Project link](https://github.com/bsprakashbs/DataScience_Projects)
   
     - Research state-of-the-art AI techniques, including machine learning (ML), deep learning, and natural language processing (NLP).
