@@ -42,6 +42,7 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
   - Written  Unix Shell Scripting to handle files for comparing the data set .
   - Work with Scala Apache Spark(data frames,datasets), Avro files, Hive,and cloud environments  like cloudera to manage large-scale data processing
   - Created reports on Databricks using Data visualization with support of different graphs
+  - Worked on databricks - Unity catalogue,compute,notebooks,delta lake
   - Manage complex applications, including development, testing, and production deployment.
   - Involved with upstream and downstream application to during each change request to make sure data flow does not impact with other applications.
   - Coordinate with business users and analysts to gather requirements and perform risk analysis.
