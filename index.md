@@ -49,7 +49,6 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
   - Working with Continuous Integration pipelines and automated deployment tools (e.g. Jenkins,Gradle)
   - Engage with business stakeholders and frame requirements.
   - Git operations -pull request and code review with team members.
-
   - Engage with business stakeholders and frame requirements.
 
     
