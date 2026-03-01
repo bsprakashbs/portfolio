@@ -40,13 +40,16 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
   - Develop and maintain ETL pipelines using Informatica(Mapping,Workflow,mapplets)
   - Created packages,stored procedures,functions,triggers,performance optimization,partitions,dynamic sql,analytical fucntions etc  using Oracle(SQL/PLSQL) for a OLTP system and Datawarehouse.
   - Written  Unix Shell Scripting to handle files for comparing the data set .
-  - Work with Scala Apache Spark(data frames,datasets), Avro files, Hive,and cloud environments  like cloudera to manage large-scale data processing.
-  - Created reports on Databricks using Data visualization with support of different graphs
-  - Worked on databricks - Unity catalogue,compute,notebooks,delta lake,lake flow,lake federation etc.
-  - Manage complex applications, including development, testing, and production deployment.
+  - Work with Scala Apache Spark(data frames,datasets), Avro files, Hive,and cloud environments  like cloudera to manage large-scale data processing
+  - created reports on Databricks using Data visualization with support of different graphs.
+  - Worked on unity catalogue,Notebooks,compute,delta lake,lake federation, medallion architecture, delta sharing) etc ..
+  - Having experience with distributed data processing framework(Spark compute for data processing (Azure)).
   - Involved with upstream and downstream application to during each change request to make sure data flow does not impact with other applications.
   - Coordinate with business users and analysts to gather requirements and perform risk analysis.
   - Working with Continuous Integration pipelines and automated deployment tools (e.g. Jenkins,Gradle)
+  - Engage with business stakeholders and frame requirements.
+  - Git operations -pull request and code review with team members.
+
   - Engage with business stakeholders and frame requirements.
 
     
