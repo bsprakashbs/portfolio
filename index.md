@@ -37,19 +37,20 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
 
 - #### Data Engineer
  
+  - Daily use of AI coding assistants (e.g., Claude Code, Gemini, GitHub Copilot) to accelerate development workflows.
   - Develop and maintain ETL pipelines using Informatica(Mapping,Workflow,mapplets)
-  - Created packages,stored procedures,functions,triggers,performance optimization,partitions,dynamic sql,analytical fucntions etc  using Oracle(SQL/PLSQL) for a OLTP system and Datawarehouse.
-  - Written  Unix Shell Scripting to handle files for comparing the data set .
+  - Created packages,stored procedures,functions,triggers,performance optimization,partitions,dynamic sql,analytical fucntions,views,materilized views,indexes etc  using Oracle(SQL/PLSQL) for a OLTP system and Datawarehouse.
+  - Written  Unix Shell Scripting to handle files for comparing the data set etc ...
   - Work with Scala Apache Spark(data frames,datasets), Avro files, Hive,and cloud environments  like cloudera to manage large-scale data processing
-  - created reports on Databricks using Data visualization with support of different graphs.
+  - Work with Python, Apache Spark (PySpark DataFrames) to manage data sets.
+  - Created reports on Databricks using Data visualization with support of different graphs.
   - Worked on unity catalogue,Notebooks,compute,delta lake,lake federation, medallion architecture, delta sharing) etc ..
-  - Having experience with distributed data processing framework(Spark compute for data processing (Azure)).
+  - Having experience with distributed data processing framework(Spark compute for data processing).
   - Involved with upstream and downstream application to during each change request to make sure data flow does not impact with other applications.
   - Coordinate with business users and analysts to gather requirements and perform risk analysis.
-  - Working with Continuous Integration pipelines and automated deployment tools (e.g. Jenkins,Gradle)
   - Engage with business stakeholders and frame requirements.
-  - Git operations -pull request and code review with team members.
-  - Engage with business stakeholders and frame requirements.
+  - Git operations -pull request ,CI/CD pipelines(e.g. Jenkins,Gradle) and code review with team members
+
 
     
 - #### AI Engineer | Data Scientist | Self Learning
