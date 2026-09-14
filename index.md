@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Data Engineer | Data Scientist | AI Engineer
+# Senior Data Engineer | Data Scientist | AI Engineer
 
 [Project-Github Repositories link](https://github.com/bsprakashbs)
 
@@ -37,19 +37,25 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
 
 - #### Data Engineer
  
-  - Daily use of AI coding assistants (e.g., Claude Code, Gemini, GitHub Copilot) to accelerate development workflows.
-  - Develop and maintain ETL pipelines using Informatica(Mapping,Workflow,mapplets)
-  - Created packages,stored procedures,functions,triggers,performance optimization,partitions,dynamic sql,analytical fucntions,views,materilized views,indexes etc  using Oracle(SQL/PLSQL) for a OLTP system and Datawarehouse.
-  - Written  Unix Shell Scripting to handle files for comparing the data set etc ...
-  - Work with Scala Apache Spark(data frames,datasets), Avro files, Hive,and cloud environments  like cloudera to manage large-scale data processing
-  - Work with Python, Apache Spark (PySpark DataFrames) to manage data sets.
-  - Created reports on Databricks using Data visualization with support of different graphs.
-  - Worked on unity catalogue,Notebooks,compute,delta lake,lake federation, medallion architecture, delta sharing) etc ..
-  - Having experience with distributed data processing framework(Spark compute for data processing).
-  - Involved with upstream and downstream application to during each change request to make sure data flow does not impact with other applications.
-  - Coordinate with business users and analysts to gather requirements and perform risk analysis.
-  - Engage with business stakeholders and frame requirements.
-  - Git operations -pull request ,CI/CD pipelines(e.g. Jenkins,Gradle) and code review with team members
+  - Design, develop and maintain enterprise ETL and data processing pipelines using Informatica, Python, PySpark, Apache Spark and Oracle.
+  - Develop scalable data transformations using Python and PySpark DataFrames for large datasets.
+  - Work with Apache Spark distributed processing for large-scale data processing and transformation.
+  - Develop Spark applications using PySpark and Scala and work with DataFrames, Datasets, Avro and Hive.
+  - Build and maintain Informatica mappings, workflows and mapplets.
+  - Develop complex Oracle SQL/PLSQL solutions including stored procedures, functions, triggers, views and materialized views.
+  - Perform database and SQL performance optimization using partitioning, indexing, analytical functions and query optimization.
+  - Work with dynamic SQL and data transformation logic supporting OLTP and data warehouse environments.
+  - Develop solutions using Databricks, Delta Lake and Medallion Architecture.
+  - Work with Unity Catalog, Lake Federation, Delta Sharing, notebooks and compute environments.
+  - Develop Databricks reports and visualizations to support business analysis.
+  - Perform data validation and reconciliation to ensure data accuracy and consistency.
+  - Analyse upstream/downstream dependencies and assess application impact during change requests.
+  - Collaborate with business users and analysts to gather requirements and translate them into technical solutions.
+  - Perform risk analysis and proactively identify potential data-flow and application impacts.
+  - Develop Unix shell scripts for file processing, dataset comparison and operational activities.
+  - Participate in Git pull requests, code reviews and CI/CD processes using Jenkins and Gradle.
+  - Use GitHub Copilot, Claude Code and Gemini as AI coding assistants to accelerate coding, debugging, documentation and development workflows.
+
 
 
     
@@ -66,8 +72,7 @@ Passionate and motivated Machine Learning Engineer eager to leverage AI and data
  
   - ####  Project 2 : Deep Learning- Image classification -Tensor Flow -Keras | [Project link](https://github.com/bsprakashbs/Deep_Learning_Plant_village)
   
-    - This project is in progress..
-    - Collect, clean, preprocess, and analyze large datasets(Plant Village)
+    -Collect, clean, preprocess, and analyze large datasets(Plant Village)
     - Used Tensorflow data set  to load images
     - Keras - performance tuning- to use cache value
     - Kearas Rescaling and Resizng for model requirements-
