@@ -12,7 +12,7 @@ layout: default
 **Data Engineer - (Scala,Python,spark,Hive,cloudera,Databricks,Informatica,Oralce(SQL|PLSQL))**: 
 Data Engineer with [16 years] of experience in designing and implementing scalable data pipelines, optimizing ETL processes, and building robust data infrastructures. Adept at ensuring data quality, security, and compliance to meet business and regulatory requirements. Passionate about transforming complex datasets into actionable insights to drive strategic decision-making.
 
-**Enthusiastic Machine Learning Engineer-(Python,ML algorithgms,Deep learning** : 
+**Enthusiastic Machine Learning Engineer-(Python,ML algorithgms,Deep learning)** : 
 Passionate and motivated Machine Learning Engineer eager to leverage AI and data-driven solutions to solve real-world problems. Adept at working with data pipelines, feature engineering, and model optimization to deliver high-performance solutions. Excited to stay at the forefront of emerging technologies, constantly learning and experimenting with advanced techniques like deep learning, natural language processing, and reinforcement learning. Dedicated to contributing innovative ideas and collaborating with teams to bring impactful ML applications to life.
 * * *
 ### Techincal Skills:
