@@ -185,7 +185,7 @@ strong {
   color:#222;
 }
 
-section {
+main {
   width:500px;
   float:right;
   padding-bottom:50px;
@@ -217,7 +217,7 @@ footer {
     margin:0;
   }
 
-  header, section, footer {
+  header, main, footer {
     float:none;
     position:static;
     width:auto;
@@ -227,7 +227,7 @@ footer {
     padding-right:320px;
   }
 
-  section {
+  main {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
@@ -284,3 +284,16 @@ footer {
     color:#444;
   }
 }
+
+/* Portfolio readability and navigation. */
+body { color: #4b5563; font-size: 15px; line-height: 1.65; }
+header img { border-radius: 12px; margin-bottom: 16px; }
+.portfolio-nav { display: flex; flex-wrap: wrap; gap: 10px 16px; }
+.portfolio-nav a { font-weight: 600; }
+main h2 { margin-top: 34px; padding-top: 12px; border-top: 1px solid #e5e7eb; }
+main h3 { line-height: 1.35; }
+main li { margin-bottom: 9px; }
+a:focus-visible { outline: 2px solid #267cb9; outline-offset: 4px; }
+th, td { vertical-align: top; overflow-wrap: anywhere; }
+@media screen and (min-width: 961px) and (max-height: 760px) { footer { position: static; clear: left; padding-top: 36px; } }
+@media screen and (max-width: 960px) { header { padding-right: 0; margin-bottom: 30px; } header img { max-width: 190px; } }

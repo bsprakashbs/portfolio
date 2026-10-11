@@ -2,92 +2,98 @@
 layout: default
 ---
 
-# Senior Data Engineer | Data Scientist | AI Engineer
+# Senior Data Engineer
 
-[Project-Github Repositories link](https://github.com/bsprakashbs)
+**Apache Spark · Databricks · Enterprise ETL**
 
-[Linkedln link](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/)
+[GitHub](https://github.com/bsprakashbs) · [LinkedIn](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/) · [Email](mailto:bsprakashbs@gmail.com)
 
-### Professional Summary:
-**Data Engineer - (Scala,Python,spark,Hive,cloudera,Databricks,Informatica,Oralce(SQL|PLSQL))**: 
-Data Engineer with [16 years] of experience in designing and implementing scalable data pipelines, optimizing ETL processes, and building robust data infrastructures. Adept at ensuring data quality, security, and compliance to meet business and regulatory requirements. Passionate about transforming complex datasets into actionable insights to drive strategic decision-making.
+## Professional Summary
 
-**Enthusiastic Machine Learning Engineer-(Python,ML algorithms,Deep learning)** : 
-Passionate and motivated Machine Learning Engineer eager to leverage AI and data-driven solutions to solve real-world problems. Adept at working with data pipelines, feature engineering, and model optimization to deliver high-performance solutions. Excited to stay at the forefront of emerging technologies, constantly learning and experimenting with advanced techniques like deep learning, natural language processing, and reinforcement learning. Dedicated to contributing innovative ideas and collaborating with teams to bring impactful ML applications to life.
-* * *
-### Techincal Skills:
+Data engineer with 16 years of experience designing and maintaining enterprise data pipelines, developing ETL solutions, and optimizing SQL and data processing workloads. My experience spans Apache Spark, PySpark, Scala, Python, Databricks, Informatica, and Oracle SQL/PLSQL.
 
-*   **Programming Languages** : UNIX Shell scripting,Scala, Python
-*   **AI/ML Frameworks** : TensorFlow, PyTorch, Keras, Scikit-learn
-*   **Data Analysis** : Pandas, NumPy, Matplotlib, Seaborn
-*   **Deep Learning** : Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers
-*   **Natural Language Processing (NLP)** : NLTK, SpaCy, BERT, GPT
-*   **Data Visualizatio/OLAP** : Databricks
-*   **Tools** : Jupyter, Git, Docker, Kubernetes, AWS, Google Cloud*   
-*   **Software Development** : Agile, CI/CD, Version Control (Git)
-*   **Scheduling tool** : Autosys, Crontab, CTRL-M
-*   **OLAP Tool** : Business Objects
-*   **Cloud Computing** : AWS S3, AWS EMR, AWS EC2
-*   **Databases** : Oracle(SQL/PLSQL-stored procedures,functions,views), EXADATA, HIVE-QL 
-*   **ETL Tools** : Informatica Power Center, Informatica Developer tool (BDM) ,DBT(learning in progress)   
-  
- * * *
- 
-### Professional Experience:
+I work across data transformation, validation, reconciliation, and performance optimization, collaborating with business users and analysts to translate requirements into technical solutions. My Databricks experience includes Delta Lake, Medallion Architecture, Unity Catalog, Lake Federation, and Delta Sharing.
 
-- #### Data Engineer
- 
-  - Design, develop and maintain enterprise ETL and data processing pipelines using Informatica, Python, PySpark, Apache Spark and Oracle.
-  - Develop scalable data transformations using Python and PySpark DataFrames for large datasets.
-  - Work with Apache Spark distributed processing for large-scale data processing and transformation.
-  - Develop Spark applications using PySpark and Scala and work with DataFrames, Datasets, Avro and Hive.
-  - Build and maintain Informatica mappings, workflows and mapplets.
-  - Develop complex Oracle SQL/PLSQL solutions including stored procedures, functions, triggers, views and materialized views.
-  - Perform database and SQL performance optimization using partitioning, indexing, analytical functions and query optimization.
-  - Work with dynamic SQL and data transformation logic supporting OLTP and data warehouse environments.
-  - Develop solutions using Databricks, Delta Lake and Medallion Architecture.
-  - Work with Unity Catalog, Lake Federation, Delta Sharing, notebooks and compute environments.
-  - Develop Databricks reports and visualizations to support business analysis.
-  - Perform data validation and reconciliation to ensure data accuracy and consistency.
-  - Analyse upstream/downstream dependencies and assess application impact during change requests.
-  - Collaborate with business users and analysts to gather requirements and translate them into technical solutions.
-  - Perform risk analysis and proactively identify potential data-flow and application impacts.
-  - Develop Unix shell scripts for file processing, dataset comparison and operational activities.
-  - Participate in Git pull requests, code reviews and CI/CD processes using Jenkins and Gradle.
-  - Use GitHub Copilot, Claude Code and Gemini as AI coding assistants to accelerate coding, debugging, documentation and development workflows.
+Alongside my data engineering work, I develop independent machine learning projects to strengthen my skills in feature engineering, model evaluation, and deep learning.
 
+## Core Technical Skills
 
+| Area | Technologies and capabilities |
+| --- | --- |
+| Programming | Python, Scala, Unix shell scripting |
+| Distributed processing | Apache Spark, PySpark, DataFrames, Datasets, Avro |
+| Data platforms | Databricks, Delta Lake, Hive, Cloudera |
+| Databricks capabilities | Medallion Architecture, Unity Catalog, Lake Federation, Delta Sharing |
+| Databases and SQL | Oracle, Exadata, SQL, PL/SQL, HiveQL |
+| ETL | Informatica PowerCenter, Informatica Developer Tool / Big Data Management |
+| Cloud | AWS S3, EMR, EC2 |
+| Scheduling | AutoSys, cron, Control-M |
+| Engineering workflow | Git, code reviews, Jenkins, Gradle, CI/CD, Agile |
+| Reporting | Business Objects, Databricks reports and visualizations |
 
-    
-- #### AI Engineer | Data Scientist | Self Learning
-  - ####  Project 1 :  Predict Irealnd House price | [Project link](https://github.com/bsprakashbs/DataScience_Projects)
-  
-    - Research state-of-the-art AI techniques, including machine learning (ML), deep learning, and natural language processing (NLP).
-    - Collect, clean, preprocess, and analyze large datasets
-    - Design and implement machine learning models, such as  linear regression, Hyper tuning,cross val,random forest etc..
-    - Fine-tune and optimize model performance using techniques like hyperparameter tuning and feature engineering.
-    - Implementing Data Cleaning, outlier reduction, one hot coding, Train test split, choose the right ML models
-    - Built predictive models for House prices Dataset.
-    - Used Fast API for the web page
- 
-  - ####  Project 2 : Deep Learning- Image classification -Tensor Flow -Keras | [Project link](https://github.com/bsprakashbs/Deep_Learning_Plant_village)
-  
-    -Collect, clean, preprocess, and analyze large datasets(Plant Village)
-    - Used Tensorflow data set  to load images
-    - Keras - performance tuning- to use cache value
-    - Kearas Rescaling and Resizng for model requirements-
-    - Kearas Data Augmentation to train the image in a different perspective
-    - Model fit and model accuracy
-    
+## Data Engineering Experience
 
-  
-* * *
-### Education
-Bachelor of Science in Computer Science - Anna university | Chennai | 2005        
-* * *
+### Enterprise Pipelines and Data Transformation
 
-###  📫 Reach Me at
-```
-Phone: +353 894422443 | Email: bsprakashbs@gmail.com
-```
+- Design, develop, and maintain ETL and data processing pipelines using Informatica, Python, PySpark, Apache Spark, and Oracle.
+- Build Spark applications in PySpark and Scala using DataFrames, Datasets, Avro, and Hive.
+- Develop Informatica mappings, workflows, and mapplets for enterprise data integration.
+- Develop Databricks solutions using Delta Lake and Medallion Architecture, and work with Unity Catalog, Lake Federation, and Delta Sharing.
 
+### SQL Development and Performance Optimization
+
+- Develop Oracle SQL and PL/SQL solutions, including stored procedures, functions, triggers, views, and materialized views.
+- Optimize SQL and database workloads using partitioning, indexing, analytical functions, and query tuning.
+- Implement dynamic SQL and transformation logic for transactional and data warehouse environments.
+
+### Data Quality and Operational Reliability
+
+- Validate and reconcile datasets to identify discrepancies and maintain data accuracy and consistency.
+- Analyze upstream and downstream dependencies to assess the impact of application changes.
+- Identify data-flow risks and potential application impacts during change planning.
+- Develop Unix shell scripts for file processing, dataset comparisons, and operational tasks.
+
+### Collaboration and Delivery
+
+- Collaborate with business users and analysts to clarify requirements and translate them into technical solutions.
+- Contribute to pull requests, code reviews, and CI/CD workflows using Git, Jenkins, and Gradle.
+- Develop Databricks reports and visualizations to support business analysis.
+- Use AI coding assistants, including GitHub Copilot, Claude Code, and Gemini, to support coding, debugging, and documentation.
+
+## Independent Machine Learning Projects
+
+### Ireland House Price Prediction
+
+**Focus:** Data preparation, feature engineering, regression, and model evaluation.
+
+- Cleaned and prepared housing data, including outlier handling and one-hot encoding.
+- Created training and test splits and explored regression models, including linear regression and random forests.
+- Used cross-validation and hyperparameter tuning to evaluate and refine models.
+- Used FastAPI as part of the application implementation.
+
+[View project repository](https://github.com/bsprakashbs/DataScience_Projects)
+
+### PlantVillage Image Classification
+
+**Focus:** Image preprocessing and deep learning with TensorFlow and Keras.
+
+- Built an image classification project using the PlantVillage dataset.
+- Prepared image inputs through resizing and rescaling.
+- Applied data augmentation to introduce variation during training.
+- Used dataset caching to improve the input pipeline and evaluated model accuracy.
+
+[View project repository](https://github.com/bsprakashbs/Deep_Learning_Plant_village)
+
+### Additional Learning
+
+Additional technologies listed in my toolkit include PyTorch, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Docker, Kubernetes, and Google Cloud. My AI/ML interests include CNNs, RNNs, Transformers, and NLP tools and models such as NLTK, spaCy, BERT, and GPT. I am currently learning dbt.
+
+## Education
+
+**Bachelor of Science in Computer Science**  
+Anna University, Chennai · 2005
+
+## Contact
+
+Phone: [+353 894422443](tel:+353894422443)  
+[Email](mailto:bsprakashbs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/) · [GitHub](https://github.com/bsprakashbs)
