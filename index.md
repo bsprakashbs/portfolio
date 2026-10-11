@@ -95,5 +95,7 @@ Anna University, Chennai · 2005
 
 ## Contact
 
+Email: [bsprakashbs@gmail.com](mailto:bsprakashbs@gmail.com)
+
 Phone: [+353 894422443](tel:+353894422443)  
-[Email](mailto:bsprakashbs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/) · [GitHub](https://github.com/bsprakashbs)
+[LinkedIn](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/) · [GitHub](https://github.com/bsprakashbs)
