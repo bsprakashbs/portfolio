@@ -21,7 +21,7 @@ Alongside my data engineering work, I develop independent machine learning proje
 | Area | Technologies and capabilities |
 | --- | --- |
 | Programming | Python, Scala, Unix shell scripting |
-| Distributed processing | Apache Spark, PySpark, DataFrames, Datasets, Avro |
+| Distributed processing | Apache Spark, PySpark, DataFrames, Datasets |
 | Data platforms | Databricks, Delta Lake, Hive, Cloudera |
 | Databricks capabilities | Medallion Architecture, Unity Catalog, Lake Federation, Delta Sharing |
 | Databases and SQL | Oracle, Exadata, SQL, PL/SQL, HiveQL |
