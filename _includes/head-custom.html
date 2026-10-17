@@ -7,3 +7,98 @@
 <!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
 
 <!-- end custom head snippets -->
+
+<style>
+
+/* Colorful portfolio: responsive, accessible, and independent of theme sizing. */
+* { box-sizing: border-box; }
+html { scroll-padding-top: 24px; }
+body {
+  padding: 40px 24px;
+  background: radial-gradient(ellipse at top left, #dbeafe 0, transparent 48%),
+              radial-gradient(ellipse at top right, #ccfbf1 0, transparent 42%), #f3f6fc;
+  color: #334155; font-size: 16px; line-height: 1.75;
+}
+div.wrapper {
+  width: 1120px; max-width: 100%; margin: 0 auto;
+  display: grid; grid-template-columns: 290px minmax(0, 1fr);
+  gap: 28px; align-items: start;
+}
+header {
+  width: auto; float: none; position: sticky; top: 24px;
+  padding: 30px 26px; margin: 0; border-radius: 24px;
+  background: linear-gradient(145deg, #163b78, #075e65);
+  color: #e1efff; box-shadow: 0 16px 38px #173e7820;
+}
+header h1 { font-size: 28px; line-height: 1.25; letter-spacing: -.6px; }
+header h1 a, header h1 a:hover { color: #fff; }
+header img {
+  display: block; width: 170px; max-width: 100%; height: 170px;
+  object-fit: cover; border-radius: 50%; border: 5px solid #b3e9e4;
+  margin: 24px 0; box-shadow: 0 0 0 7px #ffffff12;
+}
+header p { color: #e1efff; }
+.portfolio-nav { gap: 10px; }
+.portfolio-nav a {
+  color: #fff; background: #ffffff12; border: 1px solid #ffffff55;
+  border-radius: 9px; padding: 7px 12px; font-size: 13px;
+}
+.portfolio-nav a:hover { background: #fff; color: #164e63; }
+main {
+  width: auto; min-width: 0; float: none; margin: 0; padding: 36px 40px;
+  background: #fff; border: 1px solid #dbe5f0; border-top: 6px solid #0d9488;
+  border-radius: 24px; box-shadow: 0 12px 40px #173e780c;
+}
+main h1 { font-size: clamp(30px, 4vw, 42px); line-height: 1.15; color: #163b78; letter-spacing: -1px; }
+main h1 + p { color: #0f766e; }
+main h1 + p strong { color: #0f766e; }
+main h2 {
+  margin: 36px 0 20px; padding: 12px 16px; border: 0;
+  border-left: 4px solid #2563eb; border-radius: 0 10px 10px 0;
+  background: #eff6ff; color: #1e40af; font-size: 21px; line-height: 1.4;
+}
+main h2:nth-of-type(2n) { background: #ecfdf5; border-color: #0d9488; color: #115e59; }
+main h2:nth-of-type(3n) { background: #fff7ed; border-color: #ea580c; color: #9a3412; }
+main h3 { color: #115e59; font-size: 18px; margin-top: 26px; line-height: 1.45; }
+main a { color: #1d4ed8; text-decoration: underline; text-underline-offset: 3px; }
+a:hover, a:focus { font-weight: inherit; }
+.portfolio-nav a:hover, .portfolio-nav a:focus { font-weight: 600; }
+main a:hover { color: #0f766e; }
+main li::marker { color: #0d9488; }
+main li { padding-left: 3px; }
+main strong { color: #1e3a5f; }
+table { table-layout: fixed; border: 1px solid #dbe5f0; font-size: 14px; }
+th { background: #163b78; color: #fff; }
+th:first-child { width: 30%; }
+td, th { padding: 11px 13px; border-bottom: 1px solid #dbe5f0; }
+tbody tr:nth-child(even) { background: #f0fdfa; }
+tbody tr:nth-child(odd) { background: #f8faff; }
+footer {
+  grid-column: 1 / -1; width: auto; float: none; position: static;
+  padding: 0; text-align: center; color: #52627a;
+}
+footer small { font-size: 12px; }
+a:focus-visible { outline: 3px solid #c2410c; outline-offset: 4px; }
+header a:focus-visible { outline-color: #fde68a; }
+@media screen and (max-width: 960px) {
+  div.wrapper { grid-template-columns: 1fr; width: 760px; max-width: 100%; margin: 0 auto; }
+  header { position: static; padding: 28px; margin: 0; }
+  header img { width: 130px; height: 130px; }
+  main { padding: 28px; margin: 0; }
+}
+@media screen and (max-width: 480px) {
+  body { padding: 16px 12px; }
+  div.wrapper { gap: 18px; }
+  header, main { padding: 22px 18px; border-radius: 18px; }
+  main h2 { font-size: 19px; }
+  td, th { padding: 9px 8px; font-size: 13px; }
+}
+@media print {
+  body { padding: 0; background: #fff; color: #222; }
+  div.wrapper { display: block; width: auto; }
+  header, main { position: static; background: #fff; color: #222; box-shadow: none; border: 0; }
+  header h1 a, header p, .portfolio-nav a { color: #222; }
+  header img { width: 100px; height: 100px; }
+  main h2 { break-after: avoid; }
+}
+</style>
