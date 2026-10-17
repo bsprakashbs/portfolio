@@ -4,7 +4,7 @@ layout: default
 
 # Senior Data Engineer
 
-**Apache Spark · Databricks · Enterprise ETL**
+**Apache Spark · Databricks · Python · Scala · Oracle · Enterprise ETL**
 
 [GitHub](https://github.com/bsprakashbs) · [LinkedIn](https://www.linkedin.com/in/prakash-bhavani-selvaraj-523a8a188/) · [Email](mailto:bsprakashbs@gmail.com)
 
