@@ -102,3 +102,89 @@ header a:focus-visible { outline-color: #fde68a; }
   main h2 { break-after: avoid; }
 }
 </style>
+
+<style>
+/* Version 03: sidebar with an editorial introduction and a card-based main area. */
+@media screen {
+  div.wrapper { width: 1320px; grid-template-columns: 290px minmax(0,1fr); gap: 32px; }
+  main { background: transparent; border: 0; box-shadow: none; padding: 0; border-radius: 0; }
+  .portfolio-intro {
+    background: #102d4d; color: #e2edf8; padding: 36px;
+    border-radius: 22px; border-bottom: 6px solid #2dd4bf; margin-bottom: 26px;
+  }
+  .portfolio-intro h1 { color: #fff; font-size: clamp(32px,4vw,48px); }
+  .portfolio-intro h1 + p strong { color: #99f6e4; }
+  .portfolio-intro a { color: #bfdbfe; }
+  .portfolio-intro p:last-child { margin-bottom: 0; }
+  .portfolio-section { background: #fff; border: 1px solid #dbe5f0; border-radius: 20px; padding: 28px; margin-bottom: 26px; }
+  main .portfolio-section > h2 {
+    margin: 0 0 24px; background: transparent; border: 0;
+    border-bottom: 2px solid #dbeafe; border-radius: 0; padding: 0 0 15px;
+    color: #163b78; font-size: 23px;
+  }
+  .portfolio-section > p:last-child { margin-bottom: 0; }
+  .portfolio-card-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 18px; }
+  .portfolio-card { min-width: 0; background: #f0fdfa; padding: 22px; border: 1px solid #c5e9e4; border-top: 4px solid #0d9488; border-radius: 13px; }
+  .portfolio-card:nth-child(2n) { background: #eff6ff; border-color: #cfdef5; border-top-color: #3b82f6; }
+  .portfolio-card:nth-child(3n) { background: #fff7ed; border-color: #fed7aa; border-top-color: #ea580c; }
+  main .portfolio-card h3 { margin: 0 0 16px; font-size: 18px; color: #173c59; }
+  .portfolio-card ul { padding-left: 18px; font-size: 14px; line-height: 1.7; }
+  .portfolio-card p { font-size: 14px; }
+  .portfolio-card > :last-child { margin-bottom: 0; }
+  .portfolio-card-grid .portfolio-card:last-child:nth-child(odd) { grid-column: 1 / -1; }
+  .portfolio-section table { margin-bottom: 0; }
+  #portfolio-contact { background: #e6f7f5; border-color: #a6ddd6; }
+}
+@media screen and (max-width: 1100px) {
+  .portfolio-card-grid { grid-template-columns: 1fr; }
+}
+@media screen and (max-width: 960px) {
+  div.wrapper { width: 760px; grid-template-columns: 1fr; }
+  main { padding: 0; }
+}
+@media screen and (max-width: 480px) {
+  .portfolio-intro, .portfolio-section { padding: 22px 18px; }
+  .portfolio-card { padding: 18px; }
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var main = document.getElementById('main-content');
+  if (!main || main.querySelector('.portfolio-intro')) return;
+  var nodes = Array.from(main.childNodes);
+  var intro = document.createElement('div');
+  intro.className = 'portfolio-intro';
+  var fragment = document.createDocumentFragment();
+  fragment.appendChild(intro);
+  var current = intro;
+  nodes.forEach(function (node) {
+    if (node.nodeType === 1 && node.tagName === 'H2') {
+      current = document.createElement('section');
+      current.className = 'portfolio-section';
+      if (node.id) {
+        current.setAttribute('aria-labelledby', node.id);
+        current.id = 'portfolio-' + node.id;
+      }
+      fragment.appendChild(current);
+    }
+    current.appendChild(node);
+  });
+  main.appendChild(fragment);
+  main.querySelectorAll('.portfolio-section').forEach(function (section) {
+    if (!section.querySelector('h3')) return;
+    var grid = document.createElement('div');
+    grid.className = 'portfolio-card-grid';
+    var card = null;
+    Array.from(section.childNodes).forEach(function (node) {
+      if (node.nodeType === 1 && node.tagName === 'H3') {
+        card = document.createElement('article');
+        card.className = 'portfolio-card';
+        if (node.id) card.setAttribute('aria-labelledby', node.id);
+        grid.appendChild(card);
+      }
+      if (card) card.appendChild(node);
+    });
+    section.appendChild(grid);
+  });
+});
+</script>
