@@ -84,10 +84,6 @@ Alongside my data engineering work, I develop independent machine learning proje
 
 [View project repository](https://github.com/bsprakashbs/Deep_Learning_Plant_village)
 
-### Additional Learning
-
-Additional technologies listed in my toolkit include PyTorch, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Docker, Kubernetes, and Google Cloud. My AI/ML interests include CNNs, RNNs, Transformers, and NLP tools and models such as NLTK, spaCy, BERT, and GPT. I am currently learning dbt.
-
 ## Education
 
 **Bachelor of Science in Computer Science**  
