@@ -10,7 +10,7 @@ layout: default
 
 ## Professional Summary
 
-Data engineer experienced in designing and maintaining enterprise data pipelines, developing ETL solutions, and optimizing SQL and data processing workloads. My experience spans Apache Spark, PySpark, Scala, Python, Databricks, Informatica, and Oracle SQL/PLSQL.
+Senior data engineer experienced in designing and maintaining enterprise data pipelines, developing ETL solutions, and optimizing SQL and data processing workloads. My experience spans Apache Spark, PySpark, Scala, Python, Databricks, Informatica, and Oracle SQL/PLSQL.
 
 I work across data transformation, validation, reconciliation, and performance optimization, collaborating with business users and analysts to translate requirements into technical solutions. My Databricks experience includes Delta Lake, Medallion Architecture, Unity Catalog, Lake Federation, and Delta Sharing.
 
