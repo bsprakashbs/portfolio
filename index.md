@@ -30,6 +30,7 @@ Alongside my data engineering work, I develop independent machine learning proje
 | Scheduling | AutoSys, cron, Control-M |
 | Engineering workflow | Git, code reviews, Jenkins, Gradle, CI/CD, Agile |
 | Reporting | Business Objects, Databricks reports and visualizations |
+| Machine learning | pandas, NumPy, scikit-learn, feature engineering, regression, model evaluation and hyperparameter tuning, TensorFlow/Keras, CNN image classification, image preprocessing and augmentation, FastAPI prediction APIs |
 
 ## Data Engineering Experience
 
