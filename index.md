@@ -26,7 +26,7 @@ Alongside my data engineering work, I develop independent machine learning proje
 | Databricks capabilities | Medallion Architecture, Unity Catalog, Lake Federation, Delta Sharing |
 | Databases and SQL | Oracle, Exadata, SQL, PL/SQL, HiveQL |
 | ETL | Informatica PowerCenter, Informatica Developer Tool / Big Data Management |
-| Cloud | AWS S3, EMR, EC2 |
+| Cloud | AWS S3, EMR, EC2, Azure |
 | Scheduling | AutoSys, cron, Control-M |
 | Engineering workflow | Git, code reviews, Jenkins, Gradle, CI/CD, Agile |
 | Reporting | Business Objects, Databricks reports and visualizations |
