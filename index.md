@@ -28,7 +28,7 @@ Alongside my data engineering work, I develop independent machine learning proje
 | ETL | Informatica PowerCenter, Informatica Developer Tool / Big Data Management |
 | Cloud | AWS S3, EMR, EC2, Azure |
 | Scheduling | AutoSys, cron, Control-M |
-| Engineering workflow | Git, code reviews, Jenkins, Gradle, CI/CD, Agile |
+| Engineering workflow | Git, code reviews, Jenkins, Gradle, CI/CD, Agile, jra |
 | Reporting | Business Objects, Databricks reports and visualizations |
 | Machine learning | pandas, NumPy, scikit-learn, feature engineering, regression, model evaluation and hyperparameter tuning, TensorFlow/Keras, CNN image classification, image preprocessing and augmentation, FastAPI prediction APIs |
 
